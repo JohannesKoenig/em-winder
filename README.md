@@ -18,7 +18,7 @@ Support is needed for the inside of the "body.stl" file.
 **Motors:** 28BYJ-48 Stepper Motor with a ULN2003 Driver Board
 
 **Schematics:**
-[How to connect the electronics](resources/em-winder-schematics.png)
+![How to connect the electronics](resources/em-winder-schematics.png)
 
 
 ## Software
